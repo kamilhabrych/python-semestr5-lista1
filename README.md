@@ -1,6 +1,6 @@
 # Lista 1 - Języki programowania wysokiego poziomu
 
-## Python (1) - Zmienne, typy, print, input, if
+**Python (1) - Zmienne, typy, print, input, if**
 
 Zadania:
 
